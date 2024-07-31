@@ -486,6 +486,9 @@ body{
     border: 1px solid #e6e6e6;
     transform: translateX(-4px);
 }
+.form__submit:active{
+    opacity: 0.6;
+}
 /* Footer */
 .footer{
     margin-top: 80px;
